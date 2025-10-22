@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Home",
         "groups": [
           {
             "group": "Getting started",
@@ -31,24 +31,24 @@
               "essentials/code"
             ]
           }
-        ]
+        ] 
       },
       {
-        "tab": "API reference",
+        "tab": "Help",
         "groups": []
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Communications Server",
+          "href": "https://discord.gg/UDT5FWmZXN",
+          "icon": "house"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Roblox Group",
+          "href": "https://www.roblox.com/group/32444458",
+          "icon": "users"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Kelva Support Center",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#3D2409",
+    "light": "#F0C699",
+    "dark": "#663C0F"
   },
   "favicon": "/favicon.svg",
   "navigation": {

@@ -14,28 +14,33 @@
         "tab": "Home",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
-              "development"
+              "workspace/signin"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Dashboard",
             "pages": [
-              "essentials/settings"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/code"
+              "workspace/home",
+              "workspace/wall",
+              "workspace/activity",
+              "workspace/allies",
+              "workspace/sessions",
+              "workspace/staff",
+              "workspace/docs"
             ]
           }
         ] 
       },
       {
         "tab": "Help",
-        "groups": []
+        "groups": [
+          {
+            "group": "Need Help?",
+            "pages": "help/assistance"
+          }
+        ]
       }
     ],
     "global": {
@@ -47,7 +52,7 @@
         },
         {
           "anchor": "Roblox Group",
-          "href": "https://www.roblox.com/group/32444458",
+          "href": "https://www.roblox.com/communities/32444458",
           "icon": "users"
         }
       ]
@@ -69,18 +74,6 @@
       "label": "Dashboard",
       "href": "https://dashboard.mintlify.com"
     }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
   },
   "footer": {
     "socials": {
